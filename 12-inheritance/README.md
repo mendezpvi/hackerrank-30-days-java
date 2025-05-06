@@ -78,12 +78,14 @@ Grade: 0
 
 ## 🗣️ **Explanation | *Explicación***
 
-This student had `2` scores to average: `100` and `8`0. The student's average grade is \(\frac{(100+80)}{2} = 90\). An average grade of `90` corresponds to the letter grade \(O\), so the calculated method should return the character `O`.
+This student had `2` scores to average: `100` and `8`0. The student's average grade is `(100 + 80) / 2 = 90`. An average grade of `90` corresponds to the letter grade **`O`**, so the calculated method should return the character `O`.
 
-*Este estudiante tenía `2` calificaciones para promediar: `100` y `80`. El promedio del estudiante es \(\frac{(100+80)}{2} = 90\). Un promedio de `90` corresponde a la calificación en letra \(O\), por lo que el método calculado debe devolver el carácter `O`.*
+*Este estudiante tenía `2` calificaciones para promediar: `100` y `80`. El promedio del estudiante es `(100 + 80) / 2 = 90`. Un promedio de `90` corresponde a la calificación en letra **`O`**, por lo que el método calculado debe devolver el carácter `O`.*
 
 ***Solution***  
-[***Main.java***](./src/Main.java) 👈
+[***Main.java***](./src/Main.java) 👈  
+[***Person.java***](./src/Person.java) 👈  
+[***Student.java***](./src/Student.java) 👈  
 
 | [🔝](#day-12-inheritance) | [🏠](../README.md) |
 | --- | --- |
