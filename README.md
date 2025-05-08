@@ -17,6 +17,7 @@
 | 11 | [2D Arrays](./11-2d-arrays/README.md) | Easy |
 | 12 | [Inheritance](./12-inheritance/README.md) | Easy |
 | 13 | [Abstract Classes](./13-abstract-classes/README.md) | Easy |
+| 14 | [Scope](./14-scope/README.md) | Easy |
 
 
 <!-- | 04 | [Class vs Instance](./04-class-vs-iinstance/README.md) | Easy | -->
